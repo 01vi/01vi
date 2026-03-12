@@ -1,87 +1,67 @@
 <div align="center">
-  
-# वर्चस्व शुक्ल | Varchaswa Shukla
 
-### Data Science Student • Problem Solver • Builder
-
-[![IIT Madras](https://img.shields.io/badge/IIT%20Madras-BS%20Data%20Science-blue?style=for-the-badge)](https://study.iitm.ac.in)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Varchaswa+Shukla;Aspiring+Data+Scientist+%40+IIT+Madras;Turning+Raw+Data+into+Real+Insights+📊)
 
 </div>
 
 ---
-
-## 👨‍💻 About Me
 ```python
-varchaswa = {
-    "education": "BS Data Science @ IIT Madras",
-    "currently_learning": ["Python", "Pandas", "ML"],
-    "goal": "Turn data into meaningful insights",
-    "location": "India 🇮🇳",
-    "fun_fact": "Started from zero, building every day 🚀"
+profile = {
+  "name"     : "Varchaswa Shukla",
+  "role"     : "Aspiring Data Scientist @ IIT Madras",
+  "stack"    : ["Python", "Pandas", "Matplotlib", "Seaborn"],
+  "currently": "Building portfolio • Learning ML • Finding patterns",
+  "mindset"  : "Ship it. Learn from it. Repeat. 🔁"
 }
 ```
 
 ---
 
-## 🛠️ Tech Stack
+### ⚡ What I Do
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+> I dig into datasets, find hidden patterns, and turn numbers into stories that actually make sense.
 
----
-
-## 📂 Projects
-
-| 🗂️ Project | 📝 Description | 🔧 Tools |
-|------------|----------------|----------|
-| [🚢 Titanic EDA](https://github.com/01vi/titanic-eda-analysis) | Survival pattern analysis — gender, class & age insights | Python, Pandas, Seaborn |
+- 🔍 Exploratory Data Analysis
+- 📊 Data Visualization  
+- 🐍 Python for Data Science
+- 🧹 Data Cleaning & Wrangling
 
 ---
 
-## 📈 GitHub Stats
+### 🚀 Projects
+
+| # | Project | What I found | Stack |
+|---|---------|--------------|-------|
+| 01 | [🚢 Titanic EDA](https://github.com/01vi/titanic-eda-analysis) | Women survived 4x more than men. Class mattered more than age. | Pandas · Seaborn · Matplotlib |
+
+*More projects dropping soon...*
+
+---
+
+### 🛠️ Tools
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00D9FF)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00D9FF)
+![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=00D9FF)
+![Kaggle](https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=00D9FF)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF)
+
+---
+
+### 🎯 2026 Focus
+```
+[ ] 10 real-world data projects
+[ ] First freelance client
+[ ] Master ML fundamentals  
+[ ] Contribute to open source
+```
+
+---
 
 <div align="center">
 
-![Varchaswa's GitHub stats](https://github-readme-stats.vercel.app/api?username=01vi&show_icons=true&theme=tokyonight&hide_border=true)
+*"I don't just study data science — I practice it."*
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=01vi&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🎯 2026 Goals
-- [ ] Complete IIT Madras DS degree
-- [ ] Build 10 data projects
-- [ ] Land first freelance client
-- [ ] Master Machine Learning
-
----
-
-<div align="center">
-
-### "Data is the new oil — I'm learning to refine it." ⚗️
-
-![Profile Views](https://komarev.com/ghpvc/?username=01vi&color=blue&style=flat-square)
+![Views](https://komarev.com/ghpvc/?username=01vi&color=00D9FF&style=flat-square&label=👁️+Profile+Views)
 
 </div>
-
-<!--
-**01vi/01vi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
