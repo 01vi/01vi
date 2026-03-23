@@ -33,6 +33,7 @@ profile = {
 | # | Project | What I found | Stack |
 |---|---------|--------------|-------|
 | 01 | [🚢 Titanic EDA](https://github.com/01vi/titanic-eda-analysis) | Women survived 4x more than men. Class mattered more than age. | Pandas · Seaborn · Matplotlib |
+| 02 | [🍽️ Zomato Bangalore EDA](https://github.com/01vi/zomato-bangalore-analysis) | Premium restaurants rate 40% better. Lavelle Road tops Bangalore. | Pandas · Seaborn · Matplotlib |
 
 *More projects dropping soon...*
 
